@@ -43,3 +43,7 @@ Each seat row has its own `*_pop_source` and `*_pop_date` columns.
 ## Share of state (`state_population`, `county_pct_of_state`)
 
 `state_population` is the sum of that state's county populations (July 1, 2025). It matches the Census Bureau's published Vintage 2025 state totals exactly for all 51 (50 states plus DC). `county_pct_of_state` is the county's population divided by that total, in percent, to 4 decimals. DC has one county-equivalent, so it is 100%. `us_states_summary.csv` has one row per state with its largest and smallest county shares.
+
+## Top 100 cities (`us_top100_cities_vs_county_seats.csv`)
+
+The 100 largest places by July 1, 2025 population in the Census Bureau's Vintage 2025 city estimates (`sub-est2025.csv`, place-level rows). This is the Census list as published, so it includes DC, Urban Honolulu CDP, and the consolidated governments Indianapolis, Nashville-Davidson, Louisville/Jefferson County and Lexington-Fayette, using the Census population for each. A city counts as a county seat if it is the seat of any county it lies in. County membership comes from the Census city-by-county parts rows. New York City is marked as a seat because its five boroughs are the seats of the five counties. The `status` column separates cities that are not a seat because a larger top-100 city is the seat from the ones that really "missed out".

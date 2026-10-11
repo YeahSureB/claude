@@ -1,0 +1,101 @@
+rank,city,state,population_2025,county,primary_county,primary_county_seat,seat_rank_in_top100,status
+1,New York,New York,8584629,Kings County / Queens County / New York County,Kings County,Brooklyn,,county seat (its five boroughs are the seats of the five counties)
+2,Los Angeles,California,3869089,Los Angeles County,Los Angeles County,Los Angeles,,county seat
+3,Chicago,Illinois,2731585,Cook County / DuPage County,Cook County,Chicago,,county seat
+4,Houston,Texas,2397315,Harris County / Fort Bend County / Montgomery County,Harris County,Houston,,county seat
+5,Phoenix,Arizona,1665481,Maricopa County,Maricopa County,Phoenix,,county seat
+6,Philadelphia,Pennsylvania,1574281,Philadelphia County,Philadelphia County,Philadelphia,,county seat
+7,San Antonio,Texas,1548422,Bexar County / Medina County / Comal County,Bexar County,San Antonio,,county seat
+8,San Diego,California,1406106,San Diego County,San Diego County,San Diego,,county seat
+9,Dallas,Texas,1329491,Dallas County / Collin County / Denton County,Dallas County,Dallas,,county seat
+10,Fort Worth,Texas,1028117,Tarrant County / Denton County / Parker County,Tarrant County,Fort Worth,,county seat
+11,Jacksonville,Florida,1017689,Duval County,Duval County,Jacksonville,,county seat
+12,Austin,Texas,1002632,Travis County / Williamson County / Hays County,Travis County,Austin,,county seat
+13,San Jose,California,989814,Santa Clara County,Santa Clara County,San Jose,,county seat
+14,Charlotte,North Carolina,964784,Mecklenburg County,Mecklenburg County,Charlotte,,county seat
+15,Columbus,Ohio,938396,Franklin County / Delaware County / Fairfield County,Franklin County,Columbus,,county seat
+16,Indianapolis,Indiana,901116,Marion County,Marion County,Indianapolis,,county seat
+17,San Francisco,California,826079,San Francisco County,San Francisco County,San Francisco,,county seat
+18,Seattle,Washington,784777,King County,King County,Seattle,,county seat
+19,Denver,Colorado,740613,Denver County,Denver County,Denver,,county seat
+20,Nashville,Tennessee,721074,Davidson County,Davidson County,Nashville,,county seat
+21,Oklahoma City,Oklahoma,719849,Oklahoma County / Canadian County / Cleveland County,Oklahoma County,Oklahoma City,,county seat
+22,Washington,District of Columbia,693645,District of Columbia,District of Columbia,Washington,,county seat
+23,El Paso,Texas,683012,El Paso County,El Paso County,El Paso,,county seat
+24,Las Vegas,Nevada,679817,Clark County,Clark County,Las Vegas,,county seat
+25,Boston,Massachusetts,672973,Suffolk County,Suffolk County,Boston,,county seat
+26,Detroit,Michigan,649095,Wayne County,Wayne County,Detroit,,county seat
+27,Louisville,Kentucky,641962,Jefferson County,Jefferson County,Louisville,,county seat
+28,Portland,Oregon,635109,Multnomah County / Washington County / Clackamas County,Multnomah County,Portland,,county seat
+29,Memphis,Tennessee,609647,Shelby County,Shelby County,Memphis,,county seat
+30,Baltimore,Maryland,569997,Baltimore city,Baltimore city,Baltimore,,county seat
+31,Milwaukee,Wisconsin,562407,Milwaukee County / Washington County / Waukesha County,Milwaukee County,Milwaukee,,county seat
+32,Albuquerque,New Mexico,556588,Bernalillo County,Bernalillo County,Albuquerque,,county seat
+33,Fresno,California,555549,Fresno County,Fresno County,Fresno,,county seat
+34,Tucson,Arizona,548371,Pima County,Pima County,Tucson,,county seat
+35,Sacramento,California,536449,Sacramento County,Sacramento County,Sacramento,,county seat
+36,Atlanta,Georgia,529110,Fulton County / DeKalb County,Fulton County,Atlanta,,county seat
+37,Kansas City,Missouri,521220,Jackson County / Clay County / Platte County,Jackson County,Independence / Kansas City,,county seat
+38,Mesa,Arizona,513656,Maricopa County,Maricopa County,Phoenix,5,not seat - bigger top-100 city is the seat
+39,Raleigh,North Carolina,506306,Wake County / Durham County,Wake County,Raleigh,,county seat
+40,Colorado Springs,Colorado,494743,El Paso County,El Paso County,Colorado Springs,,county seat
+41,Miami,Florida,489812,Miami-Dade County,Miami-Dade County,Miami,,county seat
+42,Omaha,Nebraska,488797,Douglas County,Douglas County,Omaha,,county seat
+43,Virginia Beach,Virginia,453737,Virginia Beach city,Virginia Beach city,Virginia Beach,,county seat
+44,Long Beach,California,450469,Los Angeles County,Los Angeles County,Los Angeles,2,not seat - bigger top-100 city is the seat
+45,Oakland,California,440838,Alameda County,Alameda County,Oakland,,county seat
+46,Minneapolis,Minnesota,430324,Hennepin County,Hennepin County,Minneapolis,,county seat
+47,Bakersfield,California,422165,Kern County,Kern County,Bakersfield,,county seat
+48,Tulsa,Oklahoma,416209,Tulsa County / Osage County / Wagoner County,Tulsa County,Tulsa,,county seat
+49,Tampa,Florida,413554,Hillsborough County,Hillsborough County,Tampa,,county seat
+50,Aurora,Colorado,410053,Arapahoe County / Adams County / Douglas County,Arapahoe County,Littleton,,not seat - MISSED OUT
+51,Arlington,Texas,402134,Tarrant County,Tarrant County,Fort Worth,10,not seat - bigger top-100 city is the seat
+52,Wichita,Kansas,400987,Sedgwick County,Sedgwick County,Wichita,,county seat
+53,Cleveland,Ohio,363608,Cuyahoga County,Cuyahoga County,Cleveland,,county seat
+54,New Orleans,Louisiana,362154,Orleans Parish,Orleans Parish,New Orleans,,county seat
+55,Henderson,Nevada,353289,Clark County,Clark County,Las Vegas,24,not seat - bigger top-100 city is the seat
+56,Honolulu,Hawaii,341868,Honolulu County,Honolulu County,Honolulu,,county seat
+57,Anaheim,California,341008,Orange County,Orange County,Santa Ana,65,not seat - MISSED OUT
+58,Orlando,Florida,333888,Orange County,Orange County,Orlando,,county seat
+59,Lexington,Kentucky,329751,Fayette County,Fayette County,Lexington,,county seat
+60,Stockton,California,324597,San Joaquin County,San Joaquin County,Stockton,,county seat
+61,Newark,New Jersey,323808,Essex County,Essex County,Newark,,county seat
+62,Riverside,California,323057,Riverside County,Riverside County,Riverside,,county seat
+63,Irvine,California,318764,Orange County,Orange County,Santa Ana,65,not seat - MISSED OUT
+64,Corpus Christi,Texas,317247,Nueces County / San Patricio County / Kleberg County,Nueces County,Corpus Christi,,county seat
+65,Santa Ana,California,315586,Orange County,Orange County,Santa Ana,,county seat
+66,Cincinnati,Ohio,314367,Hamilton County,Hamilton County,Cincinnati,,county seat
+67,Greensboro,North Carolina,308667,Guilford County,Guilford County,Greensboro,,county seat
+68,Pittsburgh,Pennsylvania,307632,Allegheny County,Allegheny County,Pittsburgh,,county seat
+69,St. Paul,Minnesota,306684,Ramsey County,Ramsey County,Saint Paul,,county seat
+70,Durham,North Carolina,305561,Durham County / Wake County / Orange County,Durham County,Durham,,county seat
+71,Jersey City,New Jersey,302013,Hudson County,Hudson County,Jersey City,,county seat
+72,Lincoln,Nebraska,301522,Lancaster County,Lancaster County,Lincoln,,county seat
+73,North Las Vegas,Nevada,296653,Clark County,Clark County,Las Vegas,24,not seat - bigger top-100 city is the seat
+74,Plano,Texas,293028,Collin County / Denton County,Collin County,McKinney,99,not seat - MISSED OUT
+75,Gilbert,Arizona,287285,Maricopa County,Maricopa County,Phoenix,5,not seat - bigger top-100 city is the seat
+76,Anchorage,Alaska,287155,Anchorage Municipality,Anchorage Municipality,Anchorage,,county seat
+77,Madison,Wisconsin,286233,Dane County,Dane County,Madison,,county seat
+78,Reno,Nevada,283621,Washoe County,Washoe County,Reno,,county seat
+79,Chandler,Arizona,278748,Maricopa County,Maricopa County,Phoenix,5,not seat - bigger top-100 city is the seat
+80,St. Louis,Missouri,278144,St. Louis city,St. Louis city,St. Louis,,county seat
+81,Chula Vista,California,275533,San Diego County,San Diego County,San Diego,8,not seat - bigger top-100 city is the seat
+82,Fort Wayne,Indiana,275203,Allen County,Allen County,Fort Wayne,,county seat
+83,Buffalo,New York,274613,Erie County,Erie County,Buffalo,,county seat
+84,Lubbock,Texas,273071,Lubbock County,Lubbock County,Lubbock,,county seat
+85,Laredo,Texas,269515,Webb County,Webb County,Laredo,,county seat
+86,Port St. Lucie,Florida,268062,St. Lucie County,St. Lucie County,Fort Pierce,,not seat - MISSED OUT
+87,St. Petersburg,Florida,264033,Pinellas County,Pinellas County,Clearwater,,not seat - MISSED OUT
+88,Toledo,Ohio,263423,Lucas County,Lucas County,Toledo,,county seat
+89,Glendale,Arizona,260572,Maricopa County,Maricopa County,Phoenix,5,not seat - bigger top-100 city is the seat
+90,Winston-Salem,North Carolina,257271,Forsyth County,Forsyth County,Winston-Salem,,county seat
+91,Irving,Texas,257076,Dallas County,Dallas County,Dallas,9,not seat - bigger top-100 city is the seat
+92,Chesapeake,Virginia,255332,Chesapeake city,Chesapeake city,Chesapeake,,county seat
+93,Garland,Texas,249625,Dallas County / Collin County,Dallas County,Dallas,9,not seat - bigger top-100 city is the seat
+94,Scottsdale,Arizona,243006,Maricopa County,Maricopa County,Phoenix,5,not seat - bigger top-100 city is the seat
+95,Boise City,Idaho,238429,Ada County,Ada County,Boise,,county seat
+96,Richmond,Virginia,237257,Richmond city,Richmond city,Richmond,,county seat
+97,Frisco,Texas,236955,Collin County / Denton County,Collin County,McKinney,99,not seat - MISSED OUT
+98,Cape Coral,Florida,236264,Lee County,Lee County,Fort Myers,,not seat - MISSED OUT
+99,McKinney,Texas,236001,Collin County,Collin County,McKinney,,county seat
+100,Huntsville,Alabama,233627,Madison County / Limestone County / Morgan County,Madison County,Huntsville,,county seat
