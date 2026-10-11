@@ -39,3 +39,7 @@ Each seat row has its own `*_pop_source` and `*_pop_date` columns.
 ## Seat share of county (`seat_pct_of_county`, `seat_2_pct_of_county`)
 
 `seat_population / county_population * 100`, rounded to 2 decimals. It is blank when a seat has no population figure or the county has no seat. Where the seat's population and the county's come from different dates (the 2020 CDP counts), the ratio mixes years.
+
+## Share of state (`state_population`, `county_pct_of_state`)
+
+`state_population` is the sum of that state's county populations (July 1, 2025). It matches the Census Bureau's published Vintage 2025 state totals exactly for all 51 (50 states plus DC). `county_pct_of_state` is the county's population divided by that total, in percent, to 4 decimals. DC has one county-equivalent, so it is 100%. `us_states_summary.csv` has one row per state with its largest and smallest county shares.
