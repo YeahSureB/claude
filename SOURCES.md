@@ -35,3 +35,7 @@ Each seat row has its own `*_pop_source` and `*_pop_date` columns.
 - **Seat populations are whole-city totals.** Some seats reach into neighboring counties, so in four cases the seat population is larger than the county population: Amarillo (Potter Co.), Sioux Falls (Minnehaha Co.), Dalhart (Dallam Co.) and Pecos (Reeves Co.).
 - **Consolidated city-counties** (Nashville, Louisville, Lexington, Macon-Bibb, Butte-Silver Bow, Athens-Clarke, Augusta-Richmond and others) use the Census "balance" or consolidated-government figure. The `notes` column says which one.
 - **Date mismatch:** CDP seat populations are 2020 counts, while incorporated seats and all counties are mid-2025 estimates. Compare them with care.
+
+## Seat share of county (`seat_pct_of_county`, `seat_2_pct_of_county`)
+
+`seat_population / county_population * 100`, rounded to 2 decimals. It is blank when a seat has no population figure or the county has no seat. Where the seat's population and the county's come from different dates (the 2020 CDP counts), the ratio mixes years.
